@@ -1,0 +1,13 @@
+{
+  "name": "solidity-codescreen-fibonacci",
+  "version": "1.0.0",
+  "description": "Solidity Fibonacci test",
+  "scripts": {
+    "test": "truffle compile && truffle test"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "truffle": "^5.2.4",
+    "truffle-assertions": "^0.9.2"
+  }
+}
